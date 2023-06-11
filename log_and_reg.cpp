@@ -50,8 +50,8 @@ void page_reg()
             if (choice == 'y')
             {
                 page_reg();
-                return;
             }
+            return;
         }
     }
     file.clear();
@@ -76,7 +76,6 @@ void page_reg()
         if (choice == 'y')
         {
             page_reg();
-            return;
         }
         return;
     }
@@ -127,8 +126,8 @@ void page_log()
         if (choice == 'y')
         {
             page_log();
-            return;
         }
+        return;
     }
     file.clear();
 
@@ -150,8 +149,8 @@ void page_log()
         if (choice == 'y')
         {
             page_log();
-            return;
         }
+        return;
     }
     file.clear();
 

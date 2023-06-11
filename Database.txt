@@ -2,9 +2,5 @@
 
 USERNAME PASSWORD
 =================
-SedhuMadhav81 Madhav81
-Krithick81 kk81
-sedhu_madhav_81 81_90
-hello_world	world_helo
-sample sample
-sedhumadhav98 uh
+sampleuser samplepass
+sampleu1 samplep2
